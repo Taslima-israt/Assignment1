@@ -170,19 +170,137 @@
 
 .info-container {
 
-    border-radius: 16px;
     background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0) 100%);
     width: 1320px;
     height: 482px;
     justify-content: center;
     text-align: center;
+    margin-bottom: 200px;
+    padding-top: 100px;
 }
 
 .info-title {
-     margin-top: 100px;
     font-family: Inter;
     font-size: 32px;
     font-weight: 600;
     text-align: center;
-   
+
+}
+
+.BTN {
+
+    background: rgb(255, 0, 0);
+    width: 167px;
+    height: 56px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.red-color {
+    color: red;
+}
+
+/* section 4 style */
+
+
+.section4-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+
+
+.Best-offer-title {
+    width: 393px;
+    height: 255px;
+    text-align:center;
+    margin: 104px 104px;
+    margin-left: 40px;
+}
+
+.NBO {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.comingsoon {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+    padding-right: 10px;
+
+}
+
+.paragph {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+
+
+}
+
+.Ellipse {
+    align-items: center;
+    margin: 20px 20px;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 20px solid rgb(255, 0, 0);
+    border-radius: 50%;
+    left: 503px;
+    top: 318px;
+    padding: 20px;
+}
+
+
+
+.Text-2024-title {
+    width: 276px;
+    height: 170px;
+    margin: 104px 104px;
+    align-items: center;
+}
+
+.Text-2024 {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    
+  
+}
+
+.paraghap {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+  
+    letter-spacing: 0%;
+
+}
+
+.happy-newyear {
+
 }
