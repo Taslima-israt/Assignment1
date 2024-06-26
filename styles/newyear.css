@@ -75,8 +75,6 @@
     text-shadow: .5px 0cap 0px black;
     margin-top: 0px;
     padding-bottom: 0%;
-
-
 }
 
 .catagories {
@@ -88,7 +86,6 @@
     text-align: center;
     padding-left: 400px;
     padding-right: 400px;
-
 }
 
 .hny-picture {
@@ -102,20 +99,90 @@
 
 
 /* second section style */
-.banner2 {}
-
-.Welcome-text {
-    color: rgb(10, 8, 8);
-    font-family: Merriweather;
-    font-size: 64px;
-    text-align: left;
+.section2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 50px;
 
 }
 
-.Vectorrr {
- 
-    position: relative;
+.banner2-content {
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    justify-content: center;
+    width: 1320px;
+    height: 900px;
+    display: flex;
+
+}
+
+.Welcome-text {
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 80px;
+    margin-top: 126px;
+    margin-bottom: 0%;
+    margin-left: 126px;
+
+}
+
+.sub-text {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 126px;
+
+}
+
+.button {
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 126px;
+}
+
+.image-group70 {
+
+    margin: 70px 100px 70px;
+}
+
+
+
+/* section3 style  */
+.Info {
+    display: flex;
+    justify-content: center;
     align-items: center;
-    margin-left: 140px;
-    margin-right: 140px;
+    position: relative;
+
+
+
+}
+
+.info-container {
+
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0) 100%);
+    width: 1320px;
+    height: 482px;
+    justify-content: center;
+    text-align: center;
+}
+
+.info-title {
+     margin-top: 100px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+   
 }
