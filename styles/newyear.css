@@ -477,4 +477,11 @@ section 9 style css */
 
 .footer{
  display: flex;
+ background-color: cadetblue;
+}
+
+.footer-image{
+
+    position: relative;
+    justify-content: center;
 }
