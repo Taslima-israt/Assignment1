@@ -481,7 +481,7 @@ section 9 style css */
     }
 
     .footer-image {
-
+        background-color: aliceblue;
         position: relative;
         justify-content: center;
     }
