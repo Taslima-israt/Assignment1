@@ -475,13 +475,23 @@ section 9 style css */
     }
 
 
-.footer{
- display: flex;
- background-color: cadetblue;
-}
+    .footer {
+  
+        background-color:black;
+    }
 
-.footer-image{
+    .footer-image {
 
-    position: relative;
-    justify-content: center;
-}
+        position: relative;
+        justify-content: center;
+    }
+
+    .Big-text {
+        color: rgb(255, 255, 255);
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 40px;
+        letter-spacing: 0%;
+        text-align: left;
+    }
