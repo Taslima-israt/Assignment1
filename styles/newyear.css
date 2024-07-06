@@ -218,7 +218,7 @@
 .Best-offer-title {
     width: 393px;
     height: 255px;
-    text-align:center;
+    text-align: center;
     margin: 104px 104px;
     margin-left: 40px;
 }
@@ -286,8 +286,6 @@
     font-weight: 700;
     line-height: 58px;
     letter-spacing: 0%;
-    
-  
 }
 
 .paraghap {
@@ -296,11 +294,187 @@
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
-  
     letter-spacing: 0%;
 
 }
 
-.happy-newyear {
+.happy-newyear {}
 
+
+
+/* section5 styles css */
+
+.section5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 120px;
+    margin-left right: 126px;
+}
+
+.section5-element {
+    width: 1068px;
+    height: 260px;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+.text1 {
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 500px;
+    line-height: 29px;
+}
+
+
+.holidaysales {
+    font-family: Merriweather;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 91px;
+    margin-top: 16px;
+}
+
+.para {
+    color: rgba(89, 21, 225, 0.6);
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 32px;
+    width: 1068px;
+    height: 96px;
+
+
+}
+
+
+/* section6 styles css  */
+
+.section6 {
+    justify-content: center;
+    display: flex;
+    margin-top: 400px;
+    position: relative;
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+
+}
+
+.image75 {
+    position: relative;
+    width: 674.82px;
+    height: 577.96px;
+    right: 95px;
+    left: 100px;
+
+
+}
+
+.image44 {
+    position: relative;
+    right: 350px;
+    bottom: 250px;
+
+
+
+
+
+
+
+
+
+
+}
+
+.Rectangle1 {
+    position: relative;
+    width: 429px;
+    height: 433px;
+    left: 265px;
+    bottom: 228px;
+
+
+
+
+}
+
+
+/* Section 7 styles */
+.awesome-portfolio {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 90px;
+    padding-left: 100px;
+}
+
+.portfolio-container {
+    position: relative;
+    justify-content: center;
+    margin-right: 140px;
+    text-align: left;
+}
+
+.TBG {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 29px;
+}
+
+
+.OAP {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+}
+
+.paraghap {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 32px;
+
+
+
+
+    /* section8 style css */
+
+    .parent {
+        display: grid;
+    }
+
+    /* 
+section 9 style css */
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .Subscribe {
+        color: rgb(7, 2, 17);
+        font-family: Merriweather;
+        font-size: 48px;
+        font-weight: 900;
+        line-height: 60px;
+        letter-spacing: 0%;
+        text-align: center;
+        text-transform: capitalize;
+    }
+
+
+.footer{
+ display: flex;
 }
